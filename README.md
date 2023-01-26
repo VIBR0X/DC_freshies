@@ -1,5 +1,5 @@
 ## Install
-VS Code 
+[VS Code](https://code.visualstudio.com/)
 Live Server
 
 ## Stage 1
