@@ -1,8 +1,10 @@
 ## Install
 [VS Code](https://code.visualstudio.com/)
-Live Server
 
-## Stage 1
+
+##Stage 1
+ 
+Getting familiar with flexbox 
 ### HTML
 ```HTML
 <!-- Main Blog -->
@@ -61,6 +63,7 @@ border: 2px solid blue;
 
 ## Stage 2
 
+Creating a NavBar
 #### HTML
 ```HTML
   <!-- Nav Bar -->
@@ -134,6 +137,7 @@ border: 2px solid blue;
 
 ## Stage 3
 
+Lists, Padding and Margin
 #### HTML
 ```HTML
 <!-- Main Blog -->
@@ -178,6 +182,7 @@ a {
 
 ## Stage 4
 
+Your website is ready
 #### HTML
 ```HTML
  <div class="blog">
