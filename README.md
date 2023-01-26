@@ -2,7 +2,7 @@
 [VS Code](https://code.visualstudio.com/)
 
 
-##Stage 1
+## Stage 1
  
 Getting familiar with flexbox 
 ### HTML
